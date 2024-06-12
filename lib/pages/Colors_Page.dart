@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 
-import '../items/colom_pages.dart';
+import '../items/kk.dart';
 import '../models/lists.dart';
 
 class ColorsPage extends StatelessWidget {

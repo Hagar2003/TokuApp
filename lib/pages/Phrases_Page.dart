@@ -1,7 +1,7 @@
 // ignore_for_file: file_names, avoid_types_as_parameter_names
 
 import 'package:flutter/material.dart';
-import 'package:tokeapp/items/Info_Item.dart';
+import 'package:tokeapp/items/Theitem.dart';
 import 'package:tokeapp/models/lists.dart';
 
 class PhrasesPage extends StatelessWidget {

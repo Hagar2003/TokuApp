@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:tokeapp/models/num_model.dart';
 
-import 'Info_Item.dart';
+import 'Theitem.dart';
 
 class ColomPages extends StatelessWidget {
   const ColomPages({Key? key, required this.number})
